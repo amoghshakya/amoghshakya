@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amoghshakya // can call me amug
-- 👀 I’m interested in ... python
-- 🌱 I’m currently learning ... python
+- 👀 I’m interested in ... 
+- 🌱 I’m currently learning ... 
 
 <!---
 amoghshakya/amoghshakya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
