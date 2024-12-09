@@ -1,7 +1,7 @@
 Hi 👋 My name is Amogh Shakya
 =============================
 
-I've been coding for a long time now. I started from HTML, CSS, and JavaScript into web development but right now I am really interested in machine learning. 🤓🤓🤓
+I've been programming for a long time now. I started from HTML, CSS, and JavaScript to get into web development but right now I am really interested in machine learning. 🤓🤓🤓
 
 * 🌍  I'm based in Kathmandu, Nepal
 * ✉️  You can contact me at [iamamoghshakya@gmail.com](mailto:iamamoghshakya@gmail.com)
