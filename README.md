@@ -26,7 +26,7 @@ I'm a student so I suck at this but I like to learn and explore new topics and t
 
 <a href="http://www.github.com/amoghshakya"><img src="https://github-readme-stats.vercel.app/api?username=amoghshakya&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="amoghshakya's GitHub stats" /></a>
 
-<a href="http://www.github.com/amoghshakya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amoghshakya&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/amoghshakya"><img src="https://streak-stats.demolab.com?user=amoghshakya&hide_border=true&stroke=FFFFFF&background=1C1917&ring=0891B2&fire=0891B2&currStreakNum=FFFFFF&currStreakLabel=0891B2&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)" /></a>
 
 <a href="http://www.github.com/amoghshakya"><img src="https://github-readme-activity-graph.vercel.app/graph?username=amoghshakya&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
