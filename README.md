@@ -28,4 +28,6 @@ I'm a student so I suck at this but I like to learn and explore new topics and t
 
 <a href="http://www.github.com/amoghshakya"><img src="https://streak-stats.demolab.com?user=amoghshakya&hide_border=true&stroke=FFFFFF&background=1C1917&ring=0891B2&fire=0891B2&currStreakNum=FFFFFF&currStreakLabel=0891B2&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" /></a>
 
+<a href="http://www.github.com/amoghshakya"><img src="https://github-readme-activity-graph.vercel.app/graph?username=amoghshakya&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 <a href="https://github.com/amoghshakya" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoghshakya&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
