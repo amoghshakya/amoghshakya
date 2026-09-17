@@ -1,0 +1,138 @@
+{
+  "workbench.preferredDarkColorTheme": "Ayu Dark",
+  "workbench.preferredLightColorTheme": "Ayu Dark",
+  "editor.acceptSuggestionOnEnter": "on",
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.vertical": "hidden",
+  "window.autoDetectColorScheme": true,
+  "files.autoSave": "afterDelay",
+  "editor.fontFamily": "'Iosevka', monospace",
+  "editor.fontLigatures": "'calt' on, 'ss14'",
+  "workbench.iconTheme": "material-icon-theme",
+  "window.dialogStyle": "custom",
+  "window.restoreFullscreen": true,
+  "terminal.integrated.persistentSessionReviveProcess": "never",
+  "terminal.integrated.fontFamily": "'JetBrainsMono Nerd Font', monospace",
+  "terminal.integrated.mouseWheelZoom": true,
+  "editor.minimap.renderCharacters": false,
+  "workbench.startupEditor": "none",
+  "explorer.compactFolders": true,
+  "terminal.integrated.inheritEnv": false,
+  "editor.formatOnSave": true,
+  "material-icon-theme.files.color": "#42a5f5",
+  "material-icon-theme.folders.color": "#26a69a",
+  "material-icon-theme.folders.theme": "specific",
+  "material-icon-theme.activeIconPack": "angular",
+  "material-icon-theme.hidesExplorerArrows": false,
+  "window.titleBarStyle": "custom",
+  "window.customTitleBarVisibility": "windowed",
+  "editor.lineNumbers": "relative",
+  "window.newWindowDimensions": "fullscreen",
+  "git.autofetch": true,
+  "python.defaultInterpreterPath": "/home/am/miniforge3/bin/python",
+  "notebook.formatOnSave.enabled": true,
+  "notebook.lineNumbers": "on",
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "git.confirmSync": false,
+  "workbench.editor.customLabels.patterns": {
+    "**/**/index.{ts,tsx,js,jsx}": "${dirname} - Component"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "workbench.editorAssociations": {
+    "*.copilotmd": "vscode.markdown.preview.editor",
+    "*.svg": "default"
+  },
+  "C_Cpp.intelliSenseEngine": "disabled",
+  "clangd.path": "/usr/bin/clangd",
+  "settingsSync.ignoredExtensions": [
+    "sumneko.lua",
+    "mtxr.sqltools-driver-mysql"
+  ],
+  "extensions.experimental.affinity": {
+    "asvetliakov.vscode-neovim": 1
+  },
+  "editor.renderWhitespace": "trailing",
+  "editor.wordWrap": "on",
+  "github.copilot.nextEditSuggestions.enabled": true,
+  "catppuccin.bracketMode": "neovim",
+  "qt-core.additionalQtPaths": [
+    {
+      "name": "Qt-5.15.17-linux-g++_from_PATH",
+      "path": "/usr/bin/qmake"
+    }
+  ],
+  "[python]": {
+    "editor.defaultFormatter": "charliermarsh.ruff"
+  },
+  "typescript.experimental.useTsgo": true,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.sideBar.location": "right",
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.inlayHints.enabled": "offUnlessPressed",
+  "redhat.telemetry.enabled": false,
+  "[yaml]": {
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
+  "vscode-neovim.logOutputToConsole": true,
+  "vscode-neovim.statusLineSeparator": "|",
+  "vim.enableNeovim": true,
+  "vim.highlightedyank.enable": true,
+  "vim.hlsearch": true,
+  "vim.neovimUseConfigFile": true,
+  "vim.neovimConfigPath": "~/.config/nvim/init.lua",
+  "vim.sneak": true,
+  "[csharp]": {
+    "editor.defaultFormatter": "csharpier.csharpier-vscode"
+  },
+  "csharpier.enableDiagnostics": false,
+  "editor.lineHeight": 1.6,
+  "tailwindCSS.classFunctions": [
+    "cn",
+    "clsx",
+    "twMerge",
+    "cva"
+  ],
+  "json.schemaDownload.trustedDomains": {
+    "https://schemastore.azurewebsites.net/": true,
+    "https://raw.githubusercontent.com/microsoft/vscode/": true,
+    "https://raw.githubusercontent.com/devcontainers/spec/": true,
+    "https://www.schemastore.org/": true,
+    "https://json.schemastore.org/": true,
+    "https://json-schema.org/": true,
+    "https://developer.microsoft.com/json-schemas/": true,
+    "https://ui.shadcn.com": true,
+    "https://biomejs.dev": true
+  },
+  "terminal.integrated.commandsToSkipShell": [
+    "kilo-code.new.agentManagerOpen",
+    "kilo-code.new.agentManager.showTerminal"
+  ],
+  "window.commandCenter": false,
+  "chat.commandCenter.enabled": false,
+  "window.menuBarVisibility": "compact",
+  "terminal.integrated.fontSize": 15,
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[xml]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "[astro]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "telemetry.telemetryLevel": "off",
+  "chat.viewSessions.orientation": "stacked",
+  "biome.suggestInstallingGlobally": false,
+}
