@@ -117,12 +117,13 @@
   },
   "terminal.integrated.commandsToSkipShell": [
     "kilo-code.new.agentManagerOpen",
-    "kilo-code.new.agentManager.showTerminal"
+    "kilo-code.new.agentManager.showTerminal",
+    "kilo-code.new.agentManager.previousTerminal",
+    "kilo-code.new.agentManager.nextTerminal"
   ],
   "window.commandCenter": false,
   "chat.commandCenter.enabled": false,
   "window.menuBarVisibility": "compact",
-  "terminal.integrated.fontSize": 15,
   "[css]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
@@ -135,4 +136,6 @@
   "telemetry.telemetryLevel": "off",
   "chat.viewSessions.orientation": "stacked",
   "biome.suggestInstallingGlobally": false,
+  "kilo-code.new.agentWorkStyle": "unset",
+  "terminal.integrated.fontSize": 12,
 }
