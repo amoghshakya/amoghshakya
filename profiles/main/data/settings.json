@@ -6,7 +6,7 @@
   "editor.scrollbar.vertical": "hidden",
   "window.autoDetectColorScheme": true,
   "files.autoSave": "afterDelay",
-  "editor.fontFamily": "'Iosevka', monospace",
+  "editor.fontFamily": "'Geist Mono', monospace",
   "editor.fontLigatures": "'calt' on, 'ss14'",
   "workbench.iconTheme": "material-icon-theme",
   "window.dialogStyle": "custom",
